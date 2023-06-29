@@ -2,7 +2,7 @@
 
 ### step1
 ```
-git clone https://github.com/SachinBorse009/Node-Js-JWT-Authentication.git
+https://github.com/SachinBorse009/simple_Authetication_webapp-python-django.git
 ```
 
 ### step2
