@@ -7,21 +7,21 @@ https://github.com/SachinBorse009/simple_Authetication_webapp-python-django.git
 
 ### step2
 ```
-python mamage.py makemigrations
+python manage.py makemigrations
 ```
 
 ### step2
 ```
-python mamage.py migrate
+python manage.py migrate
 ```
 
 ### step2
 ```
-python mamage.py createsuperuser
+python manage.py createsuperuser
 ```
 
 ### step2
 ```
-python mamage.py runserver
+python manage.py runserver
 ```
 
